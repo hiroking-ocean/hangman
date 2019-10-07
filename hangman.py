@@ -44,3 +44,4 @@ def hangman(word):
 wordlist = ["cat", "dog", "penguin", "rabbit"]
 word = wordlist[random.randint(0,len(wordlist)-1)]
 hangman(word)
+#コミットしてみる
